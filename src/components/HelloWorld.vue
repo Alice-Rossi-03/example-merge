@@ -15,7 +15,7 @@ export default{
 </script>
 
 <template>
-    ciao by helloWorld
+    ciao by helloWorld con modifiche
 </template>
 
 <style scoped>
