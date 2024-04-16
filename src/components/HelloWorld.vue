@@ -15,7 +15,7 @@ export default{
 </script>
 
 <template>
-    ciao by helloWorld del nuovo branch
+    ciao by helloWorld del nuovo branch dopo modifiche
 </template>
 
 <style scoped>
