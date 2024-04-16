@@ -17,5 +17,5 @@ export default{
 </script>
 
 <template>
-  ciao by theWelcome
+  <h1>HELLO WORLD BY ALICE</h1>
 </template>
