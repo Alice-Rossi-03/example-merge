@@ -16,6 +16,8 @@ export default{
 
 <template>
     ciao by helloWorld del nuovo branch dopo modifiche
+
+    <h2>ciao a' belli</h2>
 </template>
 
 <style scoped>
