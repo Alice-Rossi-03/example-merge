@@ -19,4 +19,6 @@ export default{
 <template>
   ciao by theWelcome
   non vaa?
+
+  voglio fare un merge volutamente.. non senza accorgermene
 </template>
