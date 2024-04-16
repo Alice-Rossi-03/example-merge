@@ -23,6 +23,7 @@ export default{
 <template>
   <HelloWorld/>
   <TheWelcome/>
+  <h1>ciao a tutti pls deve uscire qualcosa</h1>
 </template>
 
 <style scoped>
