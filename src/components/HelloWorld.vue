@@ -15,7 +15,7 @@ export default{
 </script>
 
 <template>
-    CONFLITYTTITII
+    CONFLITYTTITII lalalallalalalalalal
 </template>
 
 <style scoped>
